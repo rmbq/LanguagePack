@@ -9,5 +9,8 @@
      -->
 	<Keyboard nameResId="@string/italian_keyboard" iconResId="@drawable/ic_status_italian" layoutResId="@xml/italian_qwerty"
 			landscapeResId="@xml/italian_qwerty"
-			id="e9d5ece2-48b4-48e0-8e14-41dcdfac093d" defaultDictionaryLocale="it" description="Italian QWERTY" index="1" />
+			id="00ec72a0-fbe1-11e9-aaef-0800200c9a66" defaultDictionaryLocale="it" description="Italian QWERTY" index="1" />
+	<Keyboard nameResId="@string/rmbq_keyboard" iconResId="@drawable/ic_status_italian" layoutResId="@xml/italian_rmbq"
+			landscapeResId="@xml/italian_rmbq"
+			id="e9d5ece2-48b4-48e0-8e14-41dcdfac093d" defaultDictionaryLocale="it" description="Italian rmbq" index="2" />
 </Keyboards>
